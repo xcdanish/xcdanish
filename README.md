@@ -75,7 +75,7 @@ A production-ready multi-agent application built with LangGraph and LangChain, f
 
 * 💼 LinkedIn: https://www.linkedin.com/in/xcdanish
 * 🌐 Portfolio: https://xcdanish.netlify.app
-* 📧 Email: *(Add your professional email here)*
+* 📧 Email: xcdanish@gmail.com
 
 ---
 
